@@ -1,4 +1,4 @@
-package aula7;
+package aula6;
 
 public class Animal {
     protected String nome;

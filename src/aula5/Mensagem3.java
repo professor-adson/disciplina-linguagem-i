@@ -1,4 +1,4 @@
-package aula6;
+package aula5;
 
 public class Mensagem3 {
     private String data;
