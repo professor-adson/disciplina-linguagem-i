@@ -15,4 +15,8 @@ public class ImovelVelho extends Imovel {
     public void setDesconto(double desconto) {
         this.desconto = desconto;
     }
+
+    public void imprimir() {
+        System.out.println(this.desconto);
+    }
 }
